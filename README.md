@@ -21,4 +21,5 @@ Este es un simple script de Python creado para el Desafío de Amazon Q Developer
 ## 💬 Mi Conversación con Amazon Q Developer
 Generé el script completo con una sola petición a Amazon Q. Le pedí que creara un programa que eligiera una frase al azar de una lista y la imprimiera, y me proporcionó el código funcional directamente.
 
-![Mi chat con Amazon Q](captura-q.png)
+<img width="590" height="207" alt="image" src="https://github.com/user-attachments/assets/3e9aa0c7-79e8-4362-9fb6-aa699589c4ea" />
+
